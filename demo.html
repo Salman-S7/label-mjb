@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .box1{
+            height: 100px;
+            width: 100px;
+            position: absolute;
+            background-color: black;
+            top: 50%;
+            left: 0;
+            transform: translateY(-100%);
+            transition: 0.3s linear;
+        }
+        .box2{
+            transform: translateY(0%) !important;
+
+        }
+    </style>
+</head>
+<body>
+    <div class="box1" id="box"></div>
+    <button onclick="button()" >press me</button>
+    <script>
+        function button(){
+            var x = document.getElementById("box"); 
+            x.classList.toggle("box2");
+        }
+    </script>
+</body>
+</html>

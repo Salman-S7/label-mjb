@@ -1,0 +1,91 @@
+@font-face {
+    font-family: 'Opinion-Pro-Condensed-Light';
+    src: url('../fonts/AnyConv.com__Mint\ Type\ -\ Opinion\ Pro\ Condensed\ Light.woff2') format('woff2'),
+         url('../fonts/AnyConv.com__Mint\ Type\ -\ Opinion\ Pro\ Condensed\ Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Opinion-Pro-Condensed-LightItalic';
+    src: url('../fonts/AnyConv.com__Mint\ Type\ -\ Opinion\ Pro\ Condensed\ LightItalic.woff2') format('woff2'),
+         url('../fonts/AnyConv.com__Mint\ Type\ -\ Opinion\ Pro\ Condensed\ LightItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Opinion-Pro-Extended-Light';
+    src: url('../fonts/AnyConv.com__Mint\ Type\ -\ Opinion\ Pro\ Extended\ Light.woff2') format('woff2'),
+         url('../fonts/AnyConv.com__Mint\ Type\ -\ Opinion\ Pro\ Extended\ Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Opinion-Pro-Extended-Light-Italic';
+    src: url('../fonts/AnyConv.com__Mint\ Type\ -\ Opinion\ Pro\ Extended\ Light\ Italic.woff2') format('woff2'),
+         url('../fonts/AnyConv.com__Mint\ Type\ -\ Opinion\ Pro\ Extended\ Light\ Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Opinion-Pro-ExtraCondensed-Light';
+    src: url('../fonts/AnyConv.com__Mint\ Type\ -\ Opinion\ Pro\ ExtraCondensed\ Light.woff2') format('woff2'),
+         url('../fonts/AnyConv.com__Mint\ Type\ -\ Opinion\ Pro\ ExtraCondensed\ Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Opinion-Pro-ExtraCondensed-Light-Italic';
+    src: url('../fonts/AnyConv.com__Mint\ Type\ -\ Opinion\ Pro\ ExtraCondensed\ Light\ Italic.woff2') format('woff2'),
+         url('../fonts/AnyConv.com__Mint\ Type\ -\ Opinion\ Pro\ ExtraCondensed\ Light\ Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Opinion-Pro-Light';
+    src: url('../fonts/AnyConv.com__Mint\ Type\ -\ Opinion\ Pro\ Light.woff2') format('woff2'),
+         url('../fonts/AnyConv.com__Mint\ Type\ -\ Opinion\ Pro\ Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Opinion-Pro-Light-Italic';
+    src: url('../fonts/AnyConv.com__Mint\ Type\ -\ Opinion\ Pro\ Light\ Italic.woff2') format('woff2'),
+         url('../fonts/AnyConv.com__Mint\ Type\ -\ Opinion\ Pro\ Light\ Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Love-Regular';
+    src: url('../fonts/Love-Regular.woff2') format('woff2'),
+    url('../fonts/Love-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Opinion-Pro-Condensed-W05-Bold';
+    src: url('../fonts/Opinion\ Pro\ Condensed\ W05\ Bold.woff2') format('woff2'),
+         url('../fonts/Opinion\ Pro\ Condensed\ W05\ Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Opinion-Pro-Medium';
+    src: url('../fonts/Opinion\ Pro\ Medium.woff2') format('woff2'),
+         url('../fonts/Opinion\ Pro\ Medium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Opinion-Pro-Regular';
+    src: url('../fonts/Opinion\ Pro\ Regular.woff2') format('woff2'),
+         url('../fonts/Opinion\ Pro\ Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Opinion-Pro-SemiBold';
+    src: url('../fonts/Opinion\ Pro\ SemiBold.woff2') format('woff2'),
+         url('../fonts/Opinion\ Pro\ SemiBold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
